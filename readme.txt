@@ -1,0 +1,1 @@
+yarn add @testing-library/react react-test-render jest-dom react-test-renderer @types/react-test-renderer
